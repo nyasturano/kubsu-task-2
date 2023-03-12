@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(25, 25, 41);
+    color: white;
+    font-family: 'Montserrat';
+}
+
+img {
+    width: 900px;
+    flex-shrink: 0;
+}
+
+.task {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
